@@ -4,7 +4,7 @@
 <b>
 <p align='center'><a href="https://api.daily.dev/get?r=mahfudserver"><img src="https://raw.githubusercontent.com/mahfudserver/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-![mahfudserver's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahfudserver/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahfudserver&pattern=leaf&colorPattern=%23eaeaea)
+![mahfudserver's card name](https://cardivo.vercel.app/api?name=MAHFUD%20SERVER&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahfudserver/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahfudserver&pattern=leaf&colorPattern=%23eaeaea)
 
 </b>
 
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
   You can reach me here:<br><br>
-  <a href="mailto:slinfinity69@gmail.com" style="text-decoration: none;">
+  <a href="mailto:mahfudserver@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/" style="text-decoration: none;">
